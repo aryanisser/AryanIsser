@@ -1,16 +1,21 @@
-## Hi there 👋
+About Me
 
-<!--
-**aryanisser/AryanIsser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Artificial Intelligence & Data Science undergraduate at Bennett University with a strong interest in building practical AI systems that solve real-world problems.
 
-Here are some ideas to get you started:
+My work focuses on applying machine learning, deep learning, and data-driven approaches to develop scalable and intelligent solutions. I enjoy working on challenging problems involving AI models, data pipelines, and intelligent automation systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am focused on strengthening my expertise in AI engineering, machine learning systems, and applied artificial intelligence.
+
+Academic Background
+
+B.Tech – Artificial Intelligence & Data Science
+Bennett University, UP
+Expected Graduation: 2027
+
+Professional Interests
+
+Machine Learning Engineering
+Applied Artificial Intelligence
+Large Language Models (LLMs)
+Data Science & Analytics
+AI-driven Automation Systems
