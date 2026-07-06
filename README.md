@@ -86,6 +86,45 @@ Currently, I am strengthening my expertise in:
 ![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
 
 ---
+# 🚀 Featured Projects
+
+<table align="center" width="100%">
+
+<tr>
+<td width="100%" align="center">
+
+<img src="YOUR_IMAGE_URL" width="120" height="120"/>
+
+### Agentic Business Intelligence
+
+AI-powered business intelligence platform using Agentic AI, RAG and automated data analysis to generate insights, reports and business recommendations.
+
+🔗 YOUR_LIVE_PROJECT_LINK
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" align="center">
+
+<img src="YOUR_IMAGE_URL" width="120" height="120"/>
+
+<table align="center" width="100%">
+<tr>
+<td width="100%" align="center">
+
+<img src="https://images.unsplash.com/photo-1502877338535-766e1452684a?q=80&w=300&auto=format&fit=crop" width="120" height="120"/>
+
+### Fleet Analytics
+
+Realtime fleet tracking platform using Spring Boot, MongoDB & WebSockets.
+
+🔗 https://fleet-analytics-and-tracking-backen.vercel.app/
+
+</td>
+</tr>
+
+---
 
 # Connect With Me
 
