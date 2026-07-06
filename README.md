@@ -101,7 +101,7 @@ Realtime fleet tracking platform using Spring Boot, MongoDB & WebSockets.
 
 <a href="https://fleet-analytics-and-tracking-backen.vercel.app/">🔗 Live Demo</a>
 
-<sub>Project by Paramveer Singh — linked here for demonstration/reference.</sub>
+
 
 </td>
 </tr>
@@ -117,7 +117,7 @@ AI-powered carbon emission analytics & sustainability monitoring platform.
 
 <a href="https://latestecomine.onrender.com">🔗 Live Demo</a>
 
-<sub>Project by Paramveer Singh — linked here for demonstration/reference.</sub>
+
 
 </td>
 </tr>
@@ -133,7 +133,7 @@ Road crack detection & predictive maintenance using YOLOv8 & U-Net.
 
 <a href="https://huggingface.co/spaces/theparamvrsingh/drivesafe-ai">🔗 Live Demo</a>
 
-<sub>Project by Paramveer Singh — linked here for demonstration/reference.</sub>
+
 
 </td>
 </tr>
