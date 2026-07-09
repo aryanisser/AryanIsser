@@ -86,6 +86,55 @@ Currently, I am strengthening my expertise in:
 ![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
 
 ---
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=500" width="220"/>
+
+### 🚚 TransitIQ
+
+AI-powered fleet management platform with real-time GPS tracking, live maps, WebSocket communication, driver monitoring, and analytics dashboard.
+
+🔗 **Live Demo:** https://transit-iq-live-aryan.vercel.app/
+
+🔗 **Repository:** https://github.com/aryanisser/TransitIQ
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://images.unsplash.com/photo-1511497584788-876760111969?w=500" width="220"/>
+
+### 🛣️ DriveSafe 
+
+Road crack detection and severity analysis using YOLOv8, FastAPI, OpenCV, and React with intelligent maintenance recommendations.
+
+🔗 **Live Demo:**https://drivesafe-qu0p.onrender.com/frontend/
+
+🔗 **Repository:** https://github.com/aryanisser/DriveSafe
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500" width="220"/>
+
+### 📊 InsightAI
+
+Agentic Business Intelligence platform powered by LLMs for automated analytics, forecasting, anomaly detection, AI chat, and executive reports.
+
+🔗 **Live Demo:** https://insightai-agentic-business-intelligence-platform-bmjuedevaejs3.streamlit.app/
+
+🔗 **Repository:** https://github.com/aryanisser/InsightAI-Agentic-Business-Intelligence-Platform
+
+</td>
+
+</tr>
+</table>
 
 
 ---
